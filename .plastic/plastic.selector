@@ -1,4 +1,0 @@
-repository "PBD@vsunlee@cloud.cn"
-  path "/"
-    smartbranch "/main/实现PBD" 
-     
