@@ -25,7 +25,7 @@
 
 ## Technologies
 
-- C programming language
+- C# programming language
 - Work with social networks API
 - Proxy and anonymity of network requests
 - Web scraping and browser automation
